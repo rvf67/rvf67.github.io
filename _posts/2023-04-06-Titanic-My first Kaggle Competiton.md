@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "jupyter notebook 변환하기!"
+title:  "Titanic-My first Kaggle Competiton"
 categories: coding
 tag: [python, blog, jekyll]
 toc: true
